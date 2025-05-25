@@ -1,6 +1,6 @@
 <!-- Banner or Greeting -->
 <p align="center">
-  <img src="profile-pic.jpg" alt="RajinisoumyaD" width="150" style="border-radius:50%;">
+  <img src="profile-pic.jpg" alt="RajinisoumyaD" width="100" style="border-radius:50%;">
 </p>
 
 <p align="center">
