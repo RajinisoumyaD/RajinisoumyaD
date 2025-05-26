@@ -34,6 +34,15 @@ I'm passionate about building decentralized solutions and crafting secure, effic
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RajinisoumyaD&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+
 #### 🌟 **Featured Projects**
 
 - 🚀 **[JobportalDapp](#)**: Decentralized application for job portals using blockchain.
