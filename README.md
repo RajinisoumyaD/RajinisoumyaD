@@ -1,7 +1,5 @@
 <!-- Banner or Greeting -->
-<p align="center">
-  <img src="profile-pic.jpg" alt="RajinisoumyaD" width="100" style="border-radius:50%;">
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=2C96EA&center=true&vCenter=true&width=435&lines=Hi+I'm+RajinisoumyaD!;Blockchain+%26+Solidity+Developer;AI+Enthusiast+%7C+Tech+Explorer" alt="Typing SVG" />
