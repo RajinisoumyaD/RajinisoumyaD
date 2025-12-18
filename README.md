@@ -38,7 +38,6 @@ I'm passionate about building decentralized solutions—especially in supply cha
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-Python-FF4088?style=for-the-badge"/>
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
