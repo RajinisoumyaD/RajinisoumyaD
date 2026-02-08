@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 Blockchain & Solidity Developer | Farm Supply Chain & Trade Finance | Smart Contract Engineer | AI Explorer
+### 🚀 Junior Blockchain & Solidity Developer | Farm Supply Chain & Trade Finance | Smart Contract Engineer | AI Explorer
 
 I'm passionate about building decentralized solutions—especially in supply chain and finance—crafting secure, efficient smart contracts, and blending blockchain with modern programming languages for impactful applications.
 
